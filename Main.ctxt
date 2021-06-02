@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Class\ Main\ untuk\ menjalankan\ program\r\n\r\n\ Kelompok\ 5\r\n\ @author\ Bryan\ Dario\ Lesmana\ (1806199940)\r\n\ @author\ Idham\ Ramadhito\ (1806200293)\r\n\ @author\ Muhammad\ Miftah\ Faridh\ (1806148782)\r\n\ @author\ Nisrina\ Athallah\ (1806148813)\r\n\ @version\ (02-06-2021)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ dari\ program\r\n\ @param\ args\ Arguments\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ run()
+numComments=4
